@@ -1,0 +1,4 @@
+Cambios hechos base UML:
+1. Cambiar el nombre de constructores a las clases
+2. Enums escritos correctamente
+3. Cambiado unas variables por otros nombres
